@@ -29,5 +29,5 @@
   <img align="center" alt="Samu-Jquery" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
  </div>
   
-   ![Snake animation](https://github.com/rafaballerini/samueloliveiraa/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/SamuelOliveiraa/SamuelOliveiraa/blob/main/.github/workflows/main.yml)
   
