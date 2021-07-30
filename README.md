@@ -16,7 +16,7 @@
  
   <a href="https://github.com/samueloliveiraa">
   <img width=" 456" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="331" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
   ## Social networks
