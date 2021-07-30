@@ -1,8 +1,22 @@
-# SamuelOliveira
+# Olá, meu nome é Samuel Oliveira 👤
+
+<img align="right" width="130" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
+* 💻 Conhecimentos: HTML5, CSS3.
+
+* 🌱 Atualmente estudando: JavaScript, Jquery.
+
+* 👨 💻 Para ver meus projetos <a href="https://github.com/SamuelOliveiraa?tab=repositories">clique aqui</a>
+
+* ⚡ A resposta para a questão fundamental da vida, o universo e tudo é 42.
+
+
  <div>
+  <h1> Estatiscas do GitHub</h1>
+ 
   <a href="https://github.com/samueloliveiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="350" height="245" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width=" 490" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
   ## Social networks
@@ -16,20 +30,16 @@
  
  </div>
  
-## Languages
+## Languages and Tools
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Samu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Samu-Jquery" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
+  <img align="center" alt="Samu-VsCode" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Samu-Git" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div> 
 
- 
- ## FrameWorks
- 
- <div> 
-  <img align="center" alt="Samu-Jquery" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
- </div>
-  
    ![Snake animation](https://github.com/samueloliveiraa/samueloliveiraa/blob/output/github-contribution-grid-snake.svg)
   
