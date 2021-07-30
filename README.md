@@ -13,7 +13,8 @@
 
  <div>
   <h1> GitHub Stats </h1>
- 
+  
+  <img  align="right" width="270" src="https://media.giphy.com/media/fUA19fi3gRyxmpLb8I/giphy.gif">
   <a href="https://github.com/samueloliveiraa">
   <img width=" 536" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
