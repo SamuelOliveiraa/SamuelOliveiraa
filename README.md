@@ -1,18 +1,18 @@
-# Olá, meu nome é Samuel Oliveira 👤
+# Hello, my name is Samuel Oliveira 👤
 
 <img align="right" width="130" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-* 💻 Conhecimentos: HTML5, CSS3.
+* 💻 Knowledge: HTML5, CSS3.
 
-* 🌱 Atualmente estudando: JavaScript, Jquery.
+* 🌱 Currently studying: JavaScript, Jquery.
 
-* 👨 💻 Para ver meus projetos <a href="https://github.com/SamuelOliveiraa?tab=repositories">clique aqui</a>
+* 👨 💻to see my projects <a href="https://github.com/SamuelOliveiraa?tab=repositories">click here</a>
 
-* ⚡ A resposta para a questão fundamental da vida, o universo e tudo é 42.
+* ⚡ The answer to the fundamental question of life, the universe and everything is 42.
 
 
  <div>
-  <h1> Estatiscas do GitHub</h1>
+  <h1> GitHub Stats </h1>
  
   <a href="https://github.com/samueloliveiraa">
   <img width=" 490" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
