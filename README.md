@@ -2,9 +2,9 @@
 
 <img align="right" width="130" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-* 💻 Knowledge: HTML5, CSS3.
+* 💻 Knowledge: HTML5, CSS3, JS, React Js
 
-* 🌱 Currently studying: JavaScript, Jquery.
+* 🌱 Currently studying: React Js
 
 * 👨 💻to see my projects <a href="https://github.com/SamuelOliveiraa?tab=repositories">click here</a>
 
