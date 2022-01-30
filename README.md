@@ -38,6 +38,7 @@
   <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samu-React" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Samu-Node" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Samu-Ts" height="39" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Samu-VsCode" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Samu-Git" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div> 
