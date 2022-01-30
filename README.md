@@ -4,7 +4,7 @@
 
 * 💻 Knowledge: HTML5, CSS3, JS, React Js
 
-* 🌱 Currently studying: React Js
+* 🌱 Currently studying: React Js and Typescript
 
 * 👨 💻to see my projects <a href="https://github.com/SamuelOliveiraa?tab=repositories">click here</a>
 
