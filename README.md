@@ -14,9 +14,9 @@
  <div>
   <h1> GitHub Stats </h1>
   
-  <img align="right"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveiraa&layout=compact&theme=tokyonight">
+  <img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveiraa&layout=compact&theme=tokyonight">
   <a href="https://github.com/samueloliveiraa">
-  <img width="340" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  
   ## Social networks
