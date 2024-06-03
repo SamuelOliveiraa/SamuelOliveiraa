@@ -43,5 +43,5 @@
   <img align="center" alt="Samu-VsCode" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div> 
 
-   ![Snake animation](https://github.com/samueloliveiraa/samueloliveiraa/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/samueloliveiraa/samueloliveiraa/output/github-contribution-grid-snake.svg)
   
