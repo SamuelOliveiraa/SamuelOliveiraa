@@ -1,0 +1,23 @@
+name: Snake Contribution
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Execute a cada hora (opcional)
+  workflow_dispatch: # Disparador manual (opcional)
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do Código
+        uses: actions/checkout@v2
+
+      - name: Gerar Cobrinha de Contribuição
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
