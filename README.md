@@ -43,5 +43,4 @@
   <img align="center" alt="Samu-VsCode" height="30"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div> 
 
-[![Cobrinha de Contribuições](./dist/github-snake.svg)
   
