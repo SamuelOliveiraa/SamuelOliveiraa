@@ -13,9 +13,12 @@
 
  <div>
   <h1> GitHub Stats </h1>
-  
-  <a href="https://github.com/samueloliveiraa">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/samueloliveiraa/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa" />
+  </a>
+  <a href="https://github.com/samueloliveiraa/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueloliveiraa&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
  
   ## Social networks
