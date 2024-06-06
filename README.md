@@ -14,7 +14,7 @@
  <div>
   <h1> GitHub Stats </h1>
   <a href="https://github.com/samueloliveiraa/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&include_all_commits=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samueloliveiraa&rank_icon=github&theme=dark#gh-dark-mode-only"/>
   </a>
   <a href="https://github.com/samueloliveiraa/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samueloliveiraa&layout=compact&langs_count=8&card_width=300&theme=dark#gh-dark-mode-only&rank_icon=github" />
