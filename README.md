@@ -4,11 +4,11 @@
 
 * 💻 Knowledge: HTML5, CSS3, JS, React Js
 
-* 🌱 Currently studying: React Js and Typescript
+* 🌱 Currently studying: React Native and Typescript
 
 * 👨 💻to see my projects <a href="https://github.com/SamuelOliveiraa?tab=repositories">click here</a>
 
-* ⚡ The answer to the fundamental question of life, the universe and everything is 42.
+* ⚡Code, commit, repeat.
 
 
  <div>
