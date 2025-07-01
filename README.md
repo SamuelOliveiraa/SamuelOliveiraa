@@ -2,7 +2,7 @@
          
 <img align="right" width="130" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
-* 💻 Knowledge: HTML5, CSS3, JS, React Js
+* 💻 Knowledge: HTML5, CSS3, JS, React.Js
 
 * 🌱 Currently studying: React Native and Typescript
 
