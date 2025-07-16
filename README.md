@@ -1,47 +1,38 @@
-# 💜 Olá, eu sou o Samuel!
+# 💚 Olá, eu sou o Samuel!
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
- Tenho focado meus estudos em <strong>React Native</strong> e <strong>TypeScript</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Desenvolvimento Web e Mobile.
+  Desenvolvedor em formação, focado em criar soluções práticas e modernas.<br/>
+  Estudando <strong>React Native</strong> e <strong>TypeScript</strong> para transformar aprendizado em projetos reais.
 </p>
 
 ## Sobre mim
 
-- 🎓 Estudante de Analise e Desenvolvimento de Sistemas na DESCOMPLICA
-- 📚 Estudando TypeScript, React.js, React Native, e Desenvolvimento Front-End 
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na DESCOMPLICA.
+- 📚 Focado em TypeScript, React.js, React Native e Desenvolvimento Front-End.
+- 🚀 Em formação pela Rocketseat, me especializando em desenvolvimento web e mobile.  
+- 🌍 Sempre explorando novas tecnologias e criando soluções de software.
 
-<!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
+<br/>
 <!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=yourusername" />
----
-
+<img src="https://pacman.abozanona.me?username=SamuelOliveiraa" />
 
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/eduardavieira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardavieira-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardavieira-dev&layout=compact&langs_count=6&theme=radical"/>
-
-## 📚 Meus estudos
-Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada [eduardavieira-study](https://github.com/eduardavieira-study).  
-Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
-
-> Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes 💜
-
-
+<a href="https://github.com/SamuelOliveiraa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&title_color=00ffa1&text_color=ffffff&icon_color=00ffa1&bg_color=0d1117&border_color=00ffa1" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveiraa&layout=compact&langs_count=6&theme=github_dark&title_color=00ffa1&text_color=ffffff&icon_color=00ffa1&bg_color=0d1117&border_color=00ffa1" />
+</a>
 
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,sqlite,tailwind)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,stackoverflow,androidstudio)](https://skillicons.dev)
 
 
 
@@ -72,17 +63,20 @@ Lá você encontra repositórios com resumos, desafios resolvidos, anotações d
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
 
 <div align="center">
   
-  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eduardavieira-dev&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![ Samuel Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOliveiraa&bg_color=0d1117&color=00ffa1&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=eduardavieira-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamuelOliveiraa&locale=pt-br&mode=weekly&theme=dark-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app?username=SamuelOliveiraa&theme=darkhub&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:a8e6cf,100:56ab91"/>
+
+
+
