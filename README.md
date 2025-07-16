@@ -13,7 +13,7 @@
 
 <br/>
 <!-- For SVG -->
-<img src="https://pacman.abozanona.me/?username=SamuelOliveiraa" />
+<img src="https://pacman.abozanona.me/?username=SamuelOliveiraa" alt='Pac-man Game' />
 
 
 ## ⭐ GitHub Stats
