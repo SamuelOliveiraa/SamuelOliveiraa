@@ -1,7 +1,7 @@
 # 💚 Olá, eu sou o Samuel!
 <p align="left">
   Desenvolvedor em formação, focado em criar soluções práticas e modernas.<br/>
-  Estudando <strong>React Native</strong> e <strong>TypeScript</strong> para transformar aprendizado em projetos reais.
+  Estudando <strong>Next.JS</strong> e <strong>TypeScript</strong> para transformar aprendizado em projetos reais.
 </p>
 
 ## Sobre mim
