@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,sqlite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,vite,sqlite,postgresql,tailwind,docker,prisma,express)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,stackoverflow,androidstudio)](https://skillicons.dev)
