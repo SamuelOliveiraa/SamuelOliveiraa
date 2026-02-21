@@ -1,46 +1,36 @@
-# 💚 Olá, eu sou o Samuel!
+# 💚 Hi, I'm Samuel - [Portfolio](https://portfolio-samuel-oliveira.vercel.app/pt)
+
 <p align="left">
-  Desenvolvedor em formação, focado em criar soluções práticas e modernas.<br/>
-  Estudando <strong>Next.JS</strong> e <strong>TypeScript</strong> para transformar aprendizado em projetos reais.
+  Software Developer, focused on building practical and modern solutions.<br/>
+  Currently mastering <strong>Next.JS</strong> and <strong>TypeScript</strong> to turn ideas into high-quality projects.
 </p>
 
-## Sobre mim
+## About me
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na DESCOMPLICA.
-- 📚 Focado em TypeScript, React.js, React Native e Desenvolvimento Front-End.
-- 🚀 Em formação pela Rocketseat, me especializando em desenvolvimento web e mobile.  
-- 🌍 Sempre explorando novas tecnologias e criando soluções de software.
+- 🎓 Pursuing a degree in **Systems Analysis and Development** at DESCOMPLICA.
+- 📚 Specialized in **TypeScript, React.js, React Native**, and Front-End Development.
+- 🚀 Leveling up at **Rocketseat**, focusing on web and mobile ecosystems.
+- 🌍 Passionate about exploring new technologies and crafting innovative software solutions.
 
 <br/>
 <!-- For SVG -->
 <img src="https://pacman.abozanona.me/?username=SamuelOliveiraa" alt='Pac-man Game' />
 
-
-## ⭐ GitHub Stats
-<a href="https://github.com/SamuelOliveiraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelOliveiraa&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&title_color=00ffa1&text_color=ffffff&icon_color=00ffa1&bg_color=0d1117&border_color=00ffa1" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOliveiraa&layout=compact&langs_count=6&theme=github_dark&title_color=00ffa1&text_color=ffffff&icon_color=00ffa1&bg_color=0d1117&border_color=00ffa1" />
-</a>
-
-
-## Tecnologias e linguagens 💻
+## 💻 Technologies and languages
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+## 🚀 Frameworks and libraries
 [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,vite,sqlite,postgresql,tailwind,docker,prisma,express)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Development tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,stackoverflow,androidstudio)](https://skillicons.dev)
 
 <div align="center">
   
   [![ Samuel Oliveira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelOliveiraa&bg_color=0d1117&color=00ffa1&line=00ff9c&point=00ff9c&area=true&area_color=00ff9c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=SamuelOliveiraa&locale=pt-br&mode=weekly&theme=dark-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app?username=SamuelOliveiraa&theme=darkhub&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamuelOliveiraa&locale=en-us&mode=weekly&theme=dark-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
 </div>
 
 
