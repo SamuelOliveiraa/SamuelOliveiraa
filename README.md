@@ -1,4 +1,4 @@
-# 💚 Hi, I'm Samuel - [Portfolio](https://portfolio-samuel-oliveira.vercel.app/pt)
+# 💚 Hi, I'm Samuel - [Portfolio](https://samuel-oliveira.com/pt)
 
 <p align="left">
   Software Developer, focused on building practical and modern solutions.<br/>
