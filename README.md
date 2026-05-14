@@ -2,7 +2,7 @@
 
 <p align="left">
   Software Developer, focused on building practical and modern solutions.<br/>
-  Currently mastering <strong>Next.JS</strong> and <strong>TypeScript</strong> to turn ideas into high-quality projects.
+  Currently mastering <strong>Java</strong> and <strong>Spring Boot</strong> to turn ideas into high-quality projects.
 </p>
 
 ## About me
