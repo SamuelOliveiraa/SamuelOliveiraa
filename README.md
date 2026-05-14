@@ -18,10 +18,10 @@
 
 ## 💻 Technologies and languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
 
 ## 🚀 Frameworks and libraries
-[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,vite,sqlite,postgresql,tailwind,docker,prisma,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,vite,sqlite,postgresql,tailwind,docker,prisma,express,spring)](https://skillicons.dev)
 
 ## 🛠️ Development tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,stackoverflow,androidstudio)](https://skillicons.dev)
